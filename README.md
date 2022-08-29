@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/面试合集-1000+-orange.svg)
 ![](https://img.shields.io/badge/实用资源-1000+-blue.svg)
 
-[直接在线阅读，喂饱收藏夹！]([https://free.code-nav.cn](https://beibei66631.github.io/wxzyfx/)) ✨ 
+[直接在线阅读，喂饱收藏夹！](https://beibei66631.github.io/wxzyfx/) ✨ 
 [备用地址](https://beibei66631.gitee.io/free-programming-resources) 
 
 
