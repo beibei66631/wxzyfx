@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](https://beibei66631.gitee.io/free-programming-resources/_media/2icon.jpg)
+![logo](https://beibei66631.gitee.io/free-programming-resources/_media/icon2.jpg)
 
 #  免费资源大全
 
