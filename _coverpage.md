@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon2.jpg)
+![logo](./_media/icon2.jpg)
 
 #  免费资源大全
 
